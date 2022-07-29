@@ -1,0 +1,4 @@
+variables=Las variables sirven  para guardar algun dato. Es como si fuera una caja y vamos guardando cosas.
+
+strings= los strings son variables que contienen palabras
+
