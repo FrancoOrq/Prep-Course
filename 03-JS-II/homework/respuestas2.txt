@@ -1,0 +1,6 @@
+for= for es un bucle que sirve para hacer tareas repetitivas sin tener que escribir le codigo entero mas de una vez.
+&&= el operador && seria un 'y', sirve para comparar dos situaciones y confirmar que sean verdaderas.
+
+||= el operador || seria un ' o ', lo usamos para ver si alguna de las dos situaciones de nuestro codigo es verdadera.
+
+!= este operador lo usamos para cambiar si es verdadero a falso, y si es falso a verdadero.
