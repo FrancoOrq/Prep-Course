@@ -1,4 +1,9 @@
-variables=Las variables sirven  para guardar algun dato. Es como si fuera una caja y vamos guardando cosas.
+variables=Las variables sirven  para guardar algun dato. Es como si fuera una caja y vamos guardando cosas. Para usarla tenemos que poner la palabra 'var', un espacio, y por ultimo agregamos un signo = para darle un valor.
 
-strings= los strings son variables que contienen palabras
+strings= los strings son variables que contienen datos textuales, serian palabras, letras. Y para usarlo simplemente lo ponemos dentro de una variable entre comillas.
 
+funciones= Las funciones son bloques de codigos que realizan alguna tarea. Las funciones tienen sus argumentos que son las instrucciones que les damos. Y usamos 'return' para terminar la tarea, devolver algun valor e ignorar el resto del codigo. 
+
+if= Lo usamos para ejecutar un codigo si se cumple una condicion.
+
+Valores booleanos= Son valores que solo tienen dos opciones, verdadero o falso, 1 o 2, activar o desactivar, etc.
