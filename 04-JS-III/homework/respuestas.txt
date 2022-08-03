@@ -1,0 +1,2 @@
+ARRAYS= los arrays los usamos para guardar datos de distintos tipos, ya fuese numeros, palabras, booleanos, funciones. Es como sin fuera una caja y guardamos lo que a nosotros se nos ocurra.
+Y para crear arrays ponemos el nombre, seguido unos corchetes "[ ]", y dentro de los corchetes escribimos  lo que nosotros querramos guardar.
