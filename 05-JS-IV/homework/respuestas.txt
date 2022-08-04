@@ -1,0 +1,5 @@
+OBJETOS: un objeto es un contenedor de datos, donde podemos guardar muchos datos sobre ese objeto. por ejemplo el objeto celular, tien como propiedades el tipo de pantalla, el color, el tamaño, etc.
+PROPIEDADES: Son las propiedades del objeto, lo que describe como es o las funciones que puede hacer, o cualquier tipo de dato que quieras almacenar en un objeto.
+BUCLE FOR...IN: Lo usamos para hacer un bucle y recorrer las claves (propiedades,datos) del objeto. 
+NOTACION DE PUNTOS; Lo usamos para acceder a los valores de las claves de los metodos que creamos. Tenemos que poner el nombre del objeto, el punto y luego la clave del dato que deseamos extraer.
+NOTACION DE CORCHETES: similar al de puntos, solo que para extraer el dato tenemos que poner el nombre del objeto, y seguido entre corchetes y comillas, el valor del dato a extraer.
