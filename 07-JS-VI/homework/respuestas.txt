@@ -1,0 +1,1 @@
+CALLBACKS: Son funciones que se pasan por parametro de otras funciones, es decir, un callback se crea cuando insertamos una funcion como valor de un parametro de otra funcion.

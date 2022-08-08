@@ -1,0 +1,2 @@
+PROTOTYPE: Los prototipos son objetos que pueden tener propiedades, y ademas pueden ser utilizados por otros objetos para nheredar sus propiedades.
+_Constructors_: son  funciones diseñadas para crear un objeto
